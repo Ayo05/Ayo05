@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayo05
 - 👀 I’m interested in games
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on building apps
 - 📫 How to reach me email: ibitoyea67@gmail.com
 Phone: 2348102711766
